@@ -1,0 +1,63 @@
+---
+booktitle: Proceedings of The 10th Asian Conference on Machine Learning
+shortname: ACML
+volume: 95
+year: '2018'
+start: 2018-11-14
+end: 2018-11-16
+published: 2018-11-04
+url: http://proceedings.mlr.press
+location: Beijing, China
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: ACML-2018
+month: 0
+cycles: false
+bibtex_editor: Zhu, Jun and Takeuchi, Ichiro
+editor:
+- given: Jun
+  family: Zhu
+- given: Ichiro
+  family: Takeuchi
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 10th Asian Conference on Machine Learning on 14-16 November 2018
+
+  Published as Volume 95 by the Proceedings of Machine Learning Research on 04 November 2018.
+
+  Volume Edited by:
+    Jun Zhu
+    Ichiro Takeuchi
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 14--16 Nov
+baseurl: "/v95"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v95
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Asian Conference on Machine Learning
+  url: 
+  location: ''
+  dates:
+  - 2018-11-14
+  - 2018-11-15
+  - 2018-11-16
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/neil/mlresearch/v95/ACML18 Proceedings.bib
