@@ -7,6 +7,8 @@ start: 2018-11-14
 end: 2018-11-16
 published: 2018-11-04
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 location: Beijing, China
 layout: proceedings
 series: Proceedings of Machine Learning Research
